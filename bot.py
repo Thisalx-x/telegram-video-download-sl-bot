@@ -39,7 +39,7 @@ class Music:
             'outtmpl': './'+file_name,
             'format': 'bestaudio/best',
             'postprocessors': [{
-                'key': 'FFmpegExtractAudio',
+                'key': 'FFmpegExtractVideo',
                 'preferredcodec': 'mp4',
                 'preferredquality': '360',
             }],
