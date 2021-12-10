@@ -40,8 +40,8 @@ class Music:
             'format': 'bestaudio/best',
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
-                'preferredcodec': 'mp3',
-                'preferredquality': '256',
+                'preferredcodec': 'mp4',
+                'preferredquality': '360',
             }],
             'prefer_ffmpeg': True
         }
