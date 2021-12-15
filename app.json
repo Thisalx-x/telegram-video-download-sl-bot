@@ -16,5 +16,12 @@
       "value": "",
       "required": true
     }
+  "env": {
+    "API_HASH": {
+      "description": "බොට්ගෙ token එක දාන්න.",
+      "value": "",
+      "required": true
+    }
+
   }
 }
