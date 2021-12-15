@@ -16,5 +16,15 @@
       "value": "",
       "required": true
     }
+    "API_ID":{
+      "description": "you telegram api id",
+      "value":"",
+      "required": true
+    }
+    "API_HASH":{
+      "description": "you telegram api HASH",
+      "value":"",
+      "required": true
+    }
   }
 }
