@@ -1,6 +1,6 @@
 {
   "name": "telegram-music-downloader-bot",
-  "description": "YouTube Music Downloader Bot for Telegram. ",
+  "description": "YouTube Music Downloader Bot HEE for Telegram. ",
 	"stack": "container",
   "repository": "https://github.com/Thisalx-x/telegram-video-download-sl-bot",
   "keywords": [
