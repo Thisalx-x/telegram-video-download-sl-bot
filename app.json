@@ -11,23 +11,20 @@
   "website": "https://github.com/Thisalx-x/telegram-video-download-sl-bot",
   "success_url": "https://github.com/Thisalx-x/telegram-video-download-sl-bot",
   "env": {
-    "TOKEN": {
+    "API_ID": {
       "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
       "value": "",
       "required": true
-
     }
-    "API_ID":{
+    "API_HASH":{
       "description": "you telegram api id",
       "value":"",
       "required": true
-
     }
-    "API_HASH":{
+    "TOKEN":{
       "description": "you telegram api HASH",
       "value":"",
       "required": true
-
     }
   }
 }
